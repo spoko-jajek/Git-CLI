@@ -1,1 +1,1 @@
-Projekt Git CLI
+Projekt Git CLI zmiana
